@@ -7,4 +7,4 @@ A+B is the best program in the world.
 
 How it works!
 
-!["How it works"](pictures/charts/Untitled Diagram.png)
+!["How it works"](pictures/charts/Untitled_Diagram.png)
